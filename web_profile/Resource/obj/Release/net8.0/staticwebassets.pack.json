@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\Bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\Bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\CustomCss\\CustomCss.css",
+      "PackagePath": "staticwebassets\\CustomCss\\CustomCss.css"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\Font\\GenshinImpact.ttf",
+      "PackagePath": "staticwebassets\\Font\\GenshinImpact.ttf"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\Image\\Background\\layer-0.2e7f026.png",
+      "PackagePath": "staticwebassets\\Image\\Background\\layer-0.2e7f026.png"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\Image\\Background\\star-bg.e5b2e92.png",
+      "PackagePath": "staticwebassets\\Image\\Background\\star-bg.e5b2e92.png"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\Script\\CustomScript.js",
+      "PackagePath": "staticwebassets\\Script\\CustomScript.js"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ViewResource.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ViewResource.props",
+      "PackagePath": "build\\ViewResource.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ViewResource.props",
+      "PackagePath": "buildMultiTargeting\\ViewResource.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ViewResource.props",
+      "PackagePath": "buildTransitive\\ViewResource.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

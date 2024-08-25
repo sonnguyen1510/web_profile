@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\web_profile\\web_profile\\web_profile\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "B:\\web_profile\\web_profile\\web_profile\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.web_profile.props",
+      "PackagePath": "build\\web_profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.web_profile.props",
+      "PackagePath": "buildMultiTargeting\\web_profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.web_profile.props",
+      "PackagePath": "buildTransitive\\web_profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.web_profile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

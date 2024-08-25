@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClassResource\ClassResource.csproj" />
+    <ProjectReference Include="..\Resource\ViewResource.csproj" />
+  </ItemGroup>
+
 </Project>

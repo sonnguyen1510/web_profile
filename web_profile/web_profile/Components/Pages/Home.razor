@@ -1,7 +1,70 @@
 ﻿@page "/"
+<header>
+    <nav>
+        <a href="#">About Me</a>
+        <a href="#">Portfolio</a>
+        <a href="#">Contact Me</a>
+    </nav>
+</header>
 
-<PageTitle>Home</PageTitle>
+<section class="p-5">
+    <section class="about-me">
 
-<h1>Hello, world!</h1>
+        @*  <div class="card">
+        <h2>About HoYoverse</h2>
+        <div class="content">
+        <p>HoYoverse is committed to providing immersive virtual world experiences to players around the world. We have brought fans popular games including Genshin Impact, Honkai: Star Rail, Honkai Impact 3rd, Tears of Themis, and the newly-released Zenless Zone Zero, as well as a wide range of entertainment content.</p>
+        <p>Drawing on our strong otaku spirit, we have been committed to exploring cutting-edge technologies, and we have accumulated leading technical capabilities in cartoon rendering, cloud gaming, and other fields.</p>
+        <p>In the future, we will continue to expand our content production, technology research, and publishing duties through operations in offices in Singapore, Montreal, Los Angeles, Tokyo, Seoul, and other areas.</p>
+        </div>
+        </div>*@
+        <h1>Hello,<br /> I'm Nguyen Xuan Son</h1>
+        <p><!-- Bio content --></p>
+    </section>
 
-Welcome to your new app.
+    <section class="experience">
+        <div class="experience-item">
+            <h3>10+ Complete Projects</h3>
+            <p>The completed project consists of a mobile app design and web design.</p>
+        </div>
+        <div class="experience-item">
+            <h3>1- Year Experience</h3>
+            <p>Less than one year experience but have great interest in UI/UX Design.</p>
+        </div>
+    </section>
+
+    <section class="portfolio">
+        <h2>Portfolio</h2>
+        <p>Let's check it out details of the mobile app design and web design that I created</p>
+        <div class="portfolio-items">
+            <button>Mobile App Design</button>
+            <button>Web Design</button>
+        </div>
+        <!-- Add portfolio previews -->
+    </section>
+</section>
+
+<footer>
+    <h2>Let's keep in touch with me</h2>
+    <p>If you like my design please kindly contact me and follow my social media</p>
+    <div class="social-links">
+        <!-- Add social media icons and links -->
+    </div>
+</footer>
+
+@inject IJSRuntime js
+
+@code {
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        await js.InvokeVoidAsync("AnimatedBackgroundImage");
+
+    }
+}

@@ -1,0 +1,12 @@
+B:\web_profile\web_profile\ClassResource\bin\Release\net8.0\ClassResource.deps.json
+B:\web_profile\web_profile\ClassResource\bin\Release\net8.0\ClassResource.dll
+B:\web_profile\web_profile\ClassResource\bin\Release\net8.0\ClassResource.pdb
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\ClassResource.GeneratedMSBuildEditorConfig.editorconfig
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\ClassResource.AssemblyInfoInputs.cache
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\ClassResource.AssemblyInfo.cs
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\ClassResource.csproj.CoreCompileInputs.cache
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\ClassResource.sourcelink.json
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\ClassResource.dll
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\refint\ClassResource.dll
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\ClassResource.pdb
+B:\web_profile\web_profile\ClassResource\obj\Release\net8.0\ref\ClassResource.dll

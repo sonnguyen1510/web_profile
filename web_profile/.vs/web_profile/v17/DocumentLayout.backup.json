@@ -1,12 +1,217 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "B:\\web_profile\\web_profile\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E09F7F-E7DE-4826-B350-D10A71DA924C}|web_profile\\web_profile.csproj|b:\\web_profile\\web_profile\\web_profile\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E09F7F-E7DE-4826-B350-D10A71DA924C}|web_profile\\web_profile.csproj|solutionrelative:web_profile\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D08C5BC-B176-4FEA-A59B-65F421B140E9}|ClassResource\\ClassResource.csproj|b:\\web_profile\\web_profile\\classresource\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D08C5BC-B176-4FEA-A59B-65F421B140E9}|ClassResource\\ClassResource.csproj|solutionrelative:classresource\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E09F7F-E7DE-4826-B350-D10A71DA924C}|web_profile\\web_profile.csproj|b:\\web_profile\\web_profile\\web_profile\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E09F7F-E7DE-4826-B350-D10A71DA924C}|web_profile\\web_profile.csproj|solutionrelative:web_profile\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E09F7F-E7DE-4826-B350-D10A71DA924C}|web_profile\\web_profile.csproj|b:\\web_profile\\web_profile\\web_profile\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E09F7F-E7DE-4826-B350-D10A71DA924C}|web_profile\\web_profile.csproj|solutionrelative:web_profile\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DC1CF4-172E-4AD9-9990-2DE521FC78A2}|Resource\\ViewResource.csproj|b:\\web_profile\\web_profile\\resource\\wwwroot\\script\\customscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3DC1CF4-172E-4AD9-9990-2DE521FC78A2}|Resource\\ViewResource.csproj|solutionrelative:resource\\wwwroot\\script\\customscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DC1CF4-172E-4AD9-9990-2DE521FC78A2}|Resource\\ViewResource.csproj|b:\\web_profile\\web_profile\\resource\\wwwroot\\customcss\\customcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D3DC1CF4-172E-4AD9-9990-2DE521FC78A2}|Resource\\ViewResource.csproj|solutionrelative:resource\\wwwroot\\customcss\\customcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D08C5BC-B176-4FEA-A59B-65F421B140E9}|ClassResource\\ClassResource.csproj|b:\\web_profile\\web_profile\\classresource\\classresource.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D08C5BC-B176-4FEA-A59B-65F421B140E9}|ClassResource\\ClassResource.csproj|solutionrelative:classresource\\classresource.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DC1CF4-172E-4AD9-9990-2DE521FC78A2}|Resource\\ViewResource.csproj|b:\\web_profile\\web_profile\\resource\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DC1CF4-172E-4AD9-9990-2DE521FC78A2}|Resource\\ViewResource.csproj|solutionrelative:resource\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DC1CF4-172E-4AD9-9990-2DE521FC78A2}|Resource\\ViewResource.csproj|b:\\web_profile\\web_profile\\resource\\viewresource.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3DC1CF4-172E-4AD9-9990-2DE521FC78A2}|Resource\\ViewResource.csproj|solutionrelative:resource\\viewresource.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D08C5BC-B176-4FEA-A59B-65F421B140E9}|ClassResource\\ClassResource.csproj|b:\\web_profile\\web_profile\\classresource\\enum\\enumprojectrefference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D08C5BC-B176-4FEA-A59B-65F421B140E9}|ClassResource\\ClassResource.csproj|solutionrelative:classresource\\enum\\enumprojectrefference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E09F7F-E7DE-4826-B350-D10A71DA924C}|web_profile\\web_profile.csproj|b:\\web_profile\\web_profile\\web_profile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E09F7F-E7DE-4826-B350-D10A71DA924C}|web_profile\\web_profile.csproj|solutionrelative:web_profile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnumProjectRefference.cs",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\ClassResource\\Enum\\EnumProjectRefference.cs",
+              "RelativeDocumentMoniker": "ClassResource\\Enum\\EnumProjectRefference.cs",
+              "ToolTip": "B:\\web_profile\\web_profile\\ClassResource\\Enum\\EnumProjectRefference.cs",
+              "RelativeToolTip": "ClassResource\\Enum\\EnumProjectRefference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:41:49.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\ClassResource\\Setting.cs",
+              "RelativeDocumentMoniker": "ClassResource\\Setting.cs",
+              "ToolTip": "B:\\web_profile\\web_profile\\ClassResource\\Setting.cs",
+              "RelativeToolTip": "ClassResource\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:40:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\web_profile\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "web_profile\\Components\\_Imports.razor",
+              "ToolTip": "B:\\web_profile\\web_profile\\web_profile\\Components\\_Imports.razor",
+              "RelativeToolTip": "web_profile\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:19:09.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\web_profile\\Components\\App.razor",
+              "RelativeDocumentMoniker": "web_profile\\Components\\App.razor",
+              "ToolTip": "B:\\web_profile\\web_profile\\web_profile\\Components\\App.razor",
+              "RelativeToolTip": "web_profile\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:19:06.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\web_profile\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "web_profile\\Components\\Pages\\Home.razor",
+              "ToolTip": "B:\\web_profile\\web_profile\\web_profile\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "web_profile\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T11:52:22.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\web_profile\\Program.cs",
+              "RelativeDocumentMoniker": "web_profile\\Program.cs",
+              "ToolTip": "B:\\web_profile\\web_profile\\web_profile\\Program.cs",
+              "RelativeToolTip": "web_profile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:40:08.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewResource.csproj",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\Resource\\ViewResource.csproj",
+              "RelativeDocumentMoniker": "Resource\\ViewResource.csproj",
+              "ToolTip": "B:\\web_profile\\web_profile\\Resource\\ViewResource.csproj",
+              "RelativeToolTip": "Resource\\ViewResource.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T15:23:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\Resource\\_Imports.razor",
+              "RelativeDocumentMoniker": "Resource\\_Imports.razor",
+              "ToolTip": "B:\\web_profile\\web_profile\\Resource\\_Imports.razor",
+              "RelativeToolTip": "Resource\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T15:20:51.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassResource.csproj",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\ClassResource\\ClassResource.csproj",
+              "RelativeDocumentMoniker": "ClassResource\\ClassResource.csproj",
+              "ToolTip": "B:\\web_profile\\web_profile\\ClassResource\\ClassResource.csproj",
+              "RelativeToolTip": "ClassResource\\ClassResource.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T15:20:46.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomCss.css",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\CustomCss\\CustomCss.css",
+              "RelativeDocumentMoniker": "Resource\\wwwroot\\CustomCss\\CustomCss.css",
+              "ToolTip": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\CustomCss\\CustomCss.css",
+              "RelativeToolTip": "Resource\\wwwroot\\CustomCss\\CustomCss.css",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-25T13:49:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomScript.js",
+              "DocumentMoniker": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\Script\\CustomScript.js",
+              "RelativeDocumentMoniker": "Resource\\wwwroot\\Script\\CustomScript.js",
+              "ToolTip": "B:\\web_profile\\web_profile\\Resource\\wwwroot\\Script\\CustomScript.js",
+              "RelativeToolTip": "Resource\\wwwroot\\Script\\CustomScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-25T14:57:01.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

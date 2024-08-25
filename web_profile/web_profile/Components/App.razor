@@ -1,20 +1,29 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <base href="/" />
-    <link rel="stylesheet" href="bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" href="app.css" />
-    <link rel="stylesheet" href="web_profile.styles.css" />
+    <link rel="stylesheet" href="./_content/@(EnumProjectRefference.ViewResource.ToString())/Bootstrap/Bootstrap.min.css?@BuildVersion" />
     <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="stylesheet" href="./_content/@(EnumProjectRefference.ViewResource.ToString())/CustomCss/CustomCss.css?@BuildVersion" />
     <HeadOutlet />
 </head>
 
 <body>
-    <Routes />
+    <overlay class="d-flex flex-column">
+        <background-star></background-star>
+        <background-star></background-star>
+    </overlay>
+    <maincontent id="main-content">
+        <Routes />
+
+    </maincontent>
+
     <script src="_framework/blazor.web.js"></script>
+    <script src="./_content/@(EnumProjectRefference.ViewResource.ToString())/Script/CustomScript.js?@BuildVersion"></script>
 </body>
 
 </html>
