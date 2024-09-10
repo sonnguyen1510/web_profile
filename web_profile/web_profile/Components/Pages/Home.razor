@@ -59,12 +59,11 @@
 
     protected override async Task OnInitializedAsync()
     {
-        
+
     }
 
-    protected override async Task OnAfterRenderAsync(bool firstRender)
+    protected override Task OnAfterRenderAsync(bool firstRender)
     {
-        await js.InvokeVoidAsync("AnimatedBackgroundImage");
-
+        return base.OnAfterRenderAsync(firstRender);
     }
 }
